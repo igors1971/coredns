@@ -4,7 +4,7 @@ go 1.21.6
 
 require (
 	github.com/Azure/azure-sdk-for-go v68.0.0+incompatible
-	github.com/Azure/go-autorest/autorest v0.11.29
+	github.com/Azure/go-autorest/autorest v0.11.30
 	github.com/Azure/go-autorest/autorest/azure/auth v0.5.12
 	github.com/SenseUnit/oneaddr v0.0.0-20240130102447-0a32ec20d14a
 	github.com/antonmedv/expr v1.15.5
